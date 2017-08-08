@@ -1,0 +1,60 @@
+
+.header {
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.nav {
+    width: 1200px;
+    height: 50px;
+    margin: 0 auto;
+    background-color: green;
+}
+
+
+p {
+    float: right;
+    margin-right: 20px;
+    
+}
+
+h4 {
+    float: left;
+    margin-left: 20px;
+}
+
+.media {
+    height: 1000px;
+    width: 360px;
+    margin-left: 500px;
+    border: 1px solid black;
+}
+.container_b {
+    height: 50%;
+    background-color: blue;
+}
+
+.container_n {
+    height: 50%;
+    background-color: red;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    width : 275px;
+    margin-left: 50px;
+}
+
+iframe {
+    margin-left: 100px;
+    margin-top: 40px;
+    
+}
