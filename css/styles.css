@@ -17,7 +17,7 @@ h1 {
 }
 
 
-p {
+.search {
     float: right;
     margin-right: 20px;
     
@@ -32,16 +32,19 @@ h4 {
     height: 1000px;
     width: 360px;
     margin-left: 500px;
-    border: 1px solid black;
+   
 }
 .container_b {
     height: 50%;
-    background-color: blue;
+    background-color: lightblue;
+    border: 1px solid black;
+    margin-bottom: 10px;
 }
 
 .container_n {
     height: 50%;
     background-color: red;
+    border: 1px solid black;
 }
 
 h2 {
@@ -57,4 +60,32 @@ iframe {
     margin-left: 100px;
     margin-top: 40px;
     
+}
+
+.information {
+    float: right;
+    height: 1000px;
+    width: 360px;
+    margin-right: 500px;
+    position: relative;bottom: 1000px;
+    
+}
+
+.container_bt {
+    height: 50%;
+    background-color: lightblue;
+    border: 1px solid black;
+   margin-bottom: 10px;
+    
+ 
+}
+
+.container_nao {
+     height: 50%;
+    background-color: pink;
+    border: 1px solid black;
+}
+
+.genre {
+    margin-top: 150px;
 }
